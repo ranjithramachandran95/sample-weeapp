@@ -1,0 +1,2 @@
+# sample-weeapp
+.net
